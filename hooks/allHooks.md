@@ -28,6 +28,8 @@ function Counter() {
 }
 ```
 
+<img width="1440" height="1040" alt="image" src="https://github.com/user-attachments/assets/5db6ce7a-b187-4a8c-97cf-81b6ee00ee2a" />
+
 ### How to Explain It
 > "useState lets a functional component remember a value between renders. Every time I call setState, React re-renders the component with the new value. The initial value is only used on the first render. I can store anything — numbers, strings, booleans, objects, arrays. One gotcha: if state is an object, I must spread the old state when updating to avoid losing other fields."
 
